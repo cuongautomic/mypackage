@@ -34,8 +34,8 @@
 <row Name="Homepage" Value="" Value1="" Value2="" Value3="" Value4=""/>
 <row Name="License" Value="Commercial" Value1="" Value2="" Value3="" Value4=""/>
 <row Name="Name" Value="mypackage" Value1="" Value2="" Value3="" Value4=""/>
-<row Name="Title" Value="mypackage 0.0.2" Value1="" Value2="" Value3="" Value4=""/>
-<row Name="Version" Value="0.0.5" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="Title" Value="mypackage 0.0.6" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="Version" Value="0.0.6" Value1="" Value2="" Value3="" Value4=""/>
 </Variables>
 </VARA>
 <DOCU_Docu state="1" type="text">
